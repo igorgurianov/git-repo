@@ -1,5 +1,7 @@
 h1 {
-    color: blue;
+    color: green;
+    background-color: aquamarine;
+    line-height: 10px;
 }
 
 
@@ -7,3 +9,5 @@ p {
     display: block;
     color: azure;
 }
+
+
