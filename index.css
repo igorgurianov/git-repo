@@ -1,9 +1,14 @@
 h1 {
-    color: blue;
+    color: navy;
+    font-size: 24px;
 }
 
+h2 {
+    color: navy;
+    font-size: 18px;
+}
 
 p {
     display: block;
-    color: azure;
+    color: whitesmoke;
 }
