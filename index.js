@@ -1,1 +1,6 @@
-console.log('Hello world from index.js')
+console.log('Hello world from index.js');
+
+
+function igorFeatureFunction () {
+    alert('qwewq')
+}
