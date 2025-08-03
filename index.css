@@ -2,11 +2,18 @@
     box-sizing: border-box;
 }
 
+
+dialog {
+    background-color: transparent;
+    cursor: pointer;
+}
+
+
 h1 {
     color: navy;
-    font-size: 24px;
-    background-color: aquamarine;
-    line-height: 10px;
+    font-size: 30px;
+    background-color: red;
+    line-height: 15px;
 }
 
 h2 {
